@@ -22,9 +22,9 @@
 At Superloop, I work mainly with Laravel, building APIs, integrations, and backend services, with GitHub Copilot as part of my daily workflow. Alongside that, I design custom AI agents that connect the tools our team already uses: ClickUp, Sentry, GitLab, OpenSearch, and our internal systems. They can pick up tasks, trace errors, search logs, and even test frontend applications, so engineers spend less time on repetitive investigation and more time shipping.
 
 Outside work, I build my own products: 
-→ Layozen: a live AI SaaS platform that asks clarifying questions before generating branded marketing graphics (FastAPI, Next.js)
-→ Docstron: a PDF generation API for developers, built with Python and FastAPI
-→ MakeFast: an open-source Python package on PyPI, plus a few npm packages
+→ Layozen: a live AI SaaS platform that asks clarifying questions before generating branded marketing graphics (FastAPI, Next.js) </br>
+→ Docstron: a PDF generation API for developers, built with Python and FastAPI</br>
+→ MakeFast: an open-source Python package on PyPI, plus a few npm packages</br>
 
 I'm a BSc (Hons) Software Engineering graduate (First Class) from Birmingham City University. I enjoy owning things end to end, from design to production, and I'm looking to grow into leading engineers while staying close to the code.
 
