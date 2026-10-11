@@ -17,7 +17,20 @@
 
 ###
 
-<p align="left">I am an accomplished Software Engineer with a strong academic background in Software Engineering, holding a first-class BSc Hons Software Engineering degree from Birmingham City University. Also, I'm a Graphic Designer with 4 years of industrial experience. With my valuable experience in the industry, I have gained practical knowledge and hands-on skills in various aspects of software engineering, including coding, designing, testing, and debugging. As a hobby, I'm developing productive software, libraries, and tools. Check my repositories for more details.</p>
+<p align="left">I'm a software engineer with four years of experience building backend systems, APIs, and AI-powered products.
+
+At Superloop, I work mainly with Laravel, building APIs, integrations, and backend services, with GitHub Copilot as part of my daily workflow. Alongside that, I design custom AI agents that connect the tools our team already uses: ClickUp, Sentry, GitLab, OpenSearch, and our internal systems. They can pick up tasks, trace errors, search logs, and even test frontend applications, so engineers spend less time on repetitive investigation and more time shipping.
+
+Outside work, I build my own products: 
+→ Layozen: a live AI SaaS platform that asks clarifying questions before generating branded marketing graphics (FastAPI, Next.js)
+→ Docstron: a PDF generation API for developers, built with Python and FastAPI
+→ MakeFast: an open-source Python package on PyPI, plus a few npm packages
+
+I'm a BSc (Hons) Software Engineering graduate (First Class) from Birmingham City University. I enjoy owning things end to end, from design to production, and I'm looking to grow into leading engineers while staying close to the code.
+
+Tech: Laravel · PHP · Python · FastAPI · Node.js · Next.js · Docker · CI/CD · AWS · LLMs · CrewAI · LlamaIndex.
+
+Always happy to chat about AI agents, developer tooling, or backend engineering.</p>
 
 ###
 
